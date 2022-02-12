@@ -1,5 +1,6 @@
 # Only .files - ignore all that aren't spacemacs
 
 *
-!/**/
-!.*
+/**/
+.*
+!.spacemacs
